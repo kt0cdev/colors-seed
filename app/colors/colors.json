@@ -1,0 +1,11 @@
+{"red": {
+  "hex": "ff0000",
+  "name": "red"
+},
+"yellow": {
+  "hex": "ffff00",
+  "name": "yellow"
+},"blue": {
+  "hex": "0000ff",
+  "name": "blue"
+}}
